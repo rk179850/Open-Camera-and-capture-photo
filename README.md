@@ -1,1 +1,1 @@
-# Open-Camera-and-capture-photo
+# Open-Camera-and-capture-photo using HTML and JAVASCRIPT
